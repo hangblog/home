@@ -19,4 +19,9 @@
     "name": "起始页",
     "link": "https://start.hangge.tech/"
   }
+    {
+    "icon": "Compass",
+    "name": "私密浏览",
+    "link": "https://www.startpage.com/do/mypage.pl?prfe=9a4603e92a56c23c0bad5c4b0a82f9f8609a763959272c8e547f3d4e640e3414f27e3863e1a33463b0969583c788c8fbe2d335ffafd7c8ecc9ec4fba16e47c1bf9d5fba85775c361c65ae4"
+  }
 ]
